@@ -1,0 +1,6 @@
+.main-container{background:#FFF; position:relative; margin:30px auto; padding:20px; width:80%; }
+.tv-box{position:relative; width:100%; margin:20px auto; border:2px solid #222; border-radius:5px;padding:3px; box-shadow:5px 5px 5px #555;}
+.pull-left{float:left;}
+.pull-right{float:right;}
+.button-style{background:#FFF; position:relative; padding:50px;width:100%; margin:20px auto;}
+.table-style{padding:20px background:#FFF; margin: 10px auto; width:100%;}
